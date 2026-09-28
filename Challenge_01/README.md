@@ -1,47 +1,66 @@
-# Challenge 01: Getting Started with Pandas
+# Challenge 01: Primeros pasos con Pandas
 
-Welcome to the first AC Challenge!
+¡Bienvenidos al primer AC Challenge! 🚀
 
-The goal of this challenge is to get familiar with Python, Pandas, Jupyter Notebooks, and the GitHub collaboration workflow.
+El objetivo de este primer challenge es familiarizarnos con Python, Pandas, Jupyter Notebooks y el flujo de colaboración utilizando GitHub.
 
-## Data
+## Datos
 
-The files required for this challenge will be provided separately by email.
+Recibirán por correo electrónico dos archivos CSV con información sobre películas y series disponibles en Netflix y Amazon Prime.
 
-Please do not upload the original data files to GitHub.
+Por favor, **no suban los archivos CSV originales a GitHub**.
 
-## Tasks
+## Challenge
 
-Create a Jupyter Notebook and complete the following tasks:
+Crea un Jupyter Notebook y utiliza Pandas para completar las siguientes tareas.
 
-1. Import Pandas.
+### 1. Encuentra a Eugenio Derbez 🎬
 
-2. Load the Excel file provided by email.
+Utilizando ambos datasets, encuentra todas las películas y series en las que aparezca **Eugenio Derbez**.
 
-3. Load the CSV file provided by email.
+Tu resultado debe mostrar claramente:
 
-4. Display the first 5 rows of each dataset.
+- El título
+- La plataforma en la que fue encontrado
 
-5. Show the number of rows and columns in each dataset.
+### 2. Explora los datos 🔎
 
-6. Display the column names of each dataset.
+Ahora viene la parte libre del challenge.
 
-7. Choose one dataset and calculate one simple summary of your choice.
+Explora los datasets y **cuéntanos algo interesante que hayas descubierto en los datos**.
 
-Examples:
+No existe una única respuesta correcta.
 
-- Total
-- Average
-- Count
-- Maximum
-- Minimum
+Encuentra al menos **un insight** que consideres interesante y quieras compartir con el equipo.
 
-## Submission
+Puedes explorar, por ejemplo:
 
-Save your notebook as:
+- Películas vs. series
+- Países
+- Años de lanzamiento
+- Géneros
+- Ratings
+- Directores
+- Actores
+- Diferencias entre Netflix y Amazon Prime
+- Cualquier otra cosa que llame tu atención
 
-challenge_01_yourname.ipynb
+¡Sé creativo!
 
-Submit your solution through a Pull Request.
+## Entrega
 
-Have fun!
+Guarda tu Jupyter Notebook utilizando el siguiente formato:
+
+`challenge_01_tunombre.ipynb`
+
+Por ejemplo:
+
+`challenge_01_daniel.ipynb`
+
+Sube únicamente tu Jupyter Notebook.
+
+**No subas los archivos CSV proporcionados por correo a GitHub.**
+
+Finalmente, envía tu solución mediante un **Pull Request**.
+
+¡Diviértete y no tengas miedo de experimentar! 🚀
